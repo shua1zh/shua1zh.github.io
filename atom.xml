@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>shu1zh.top</id>
+    <title>我的博客</title>
+    <updated>2021-10-15T14:22:40.369Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="shu1zh.top"/>
+    <link rel="self" href="shu1zh.top/atom.xml"/>
+    <subtitle>Stay Hungry. Stay Foolish.</subtitle>
+    <logo>https://s3.bmp.ovh/imgs/2021/09/70a7ebad395c167e.png</logo>
+    <icon>https://s3.bmp.ovh/imgs/2021/09/70a7ebad395c167e.png</icon>
+    <rights>All rights reserved 2021, 我的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://shu1zh.top/ce-shi</id>
+        <link href="https://shu1zh.top/ce-shi"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这是一篇博客
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一篇博客</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一方天地]]></title>
+        <id>https://shu1zh.top/</id>
+        <link href="https://shu1zh.top/"/>
+        <updated>2021-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://s3.bmp.ovh/imgs/2021/09/611f1dbedf68577e.jpeg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
